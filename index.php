@@ -1,1 +1,1 @@
-<?php include_once ("ResonsivePortfolio.html"); ?> 
+<?php include_once ("bootstrapportolio.html"); ?> 
